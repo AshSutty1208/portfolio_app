@@ -41,7 +41,7 @@ abstract class AppThemeColours {
 
   Color get coreGreyLight => const Color(0xFFF1F1F1);
 
-  /// Caremixer colours
+  /// portfolioApp colours
   Color get coreOrange => const Color(0xFFF05226);
   Color get coreCoralRed => const Color(0xFFFDD8CF);
   Color get coreBrickRed => const Color(0xFFBD3B27);

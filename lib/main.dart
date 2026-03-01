@@ -49,7 +49,7 @@ class MyApp extends StatelessWidget {
     return Consumer(
       builder: (BuildContext context, WidgetRef ref, Widget? child) {
         return MaterialApp.router(
-          title: 'Caremixer',
+          title: 'Portfolio App',
           routerConfig: baseRouter,
           theme: ref.watch(appThemeStateProvider).materialTheme,
           darkTheme: ref.watch(appThemeStateProvider).materialTheme,
