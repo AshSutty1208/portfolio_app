@@ -1,4 +1,4 @@
-import 'package:caremixer_test/features/chat/domain/chat_message.dart';
+import 'package:portfolio_app/features/chat/domain/chat_message.dart';
 import 'package:dart_mappable/dart_mappable.dart';
 
 part 'chat_list_screen_state.mapper.dart';

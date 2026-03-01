@@ -1,10 +1,10 @@
-import 'package:caremixer_test/features/chat/ui/chat_list_screen.dart';
-import 'package:caremixer_test/features/pokedex/domain/pokemon_detail.dart';
-import 'package:caremixer_test/features/pokedex/ui/pokedex_list/pokedex_list_screen.dart';
-import 'package:caremixer_test/features/pokedex/ui/pokedex_search/pokedex_search_screen.dart';
-import 'package:caremixer_test/features/pokedex/ui/pokemon_detail/pokemon_detail_screen.dart';
-import 'package:caremixer_test/features/tab_view_holder.dart';
-import 'package:caremixer_test/features/timeline/ui/timeline_list/timeline_screen.dart';
+import 'package:portfolio_app/features/chat/ui/chat_list_screen.dart';
+import 'package:portfolio_app/features/pokedex/domain/pokemon_detail.dart';
+import 'package:portfolio_app/features/pokedex/ui/pokedex_list/pokedex_list_screen.dart';
+import 'package:portfolio_app/features/pokedex/ui/pokedex_search/pokedex_search_screen.dart';
+import 'package:portfolio_app/features/pokedex/ui/pokemon_detail/pokemon_detail_screen.dart';
+import 'package:portfolio_app/features/tab_view_holder.dart';
+import 'package:portfolio_app/features/timeline/ui/timeline_list/timeline_screen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:go_router/go_router.dart';
 

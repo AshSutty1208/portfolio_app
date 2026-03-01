@@ -1,7 +1,7 @@
-import 'package:caremixer_test/base_widgets/base_state_widgets.dart';
-import 'package:caremixer_test/features/pokedex/domain/pokemon_details/pokemon_species.dart';
-import 'package:caremixer_test/features/pokedex/ui/pokemon_detail/pokemon_detail_screen_view_model.dart';
-import 'package:caremixer_test/features/pokedex/ui/pokemon_detail/widgets/pokemon_species_details/pokemon_species_detail_widget.dart';
+import 'package:portfolio_app/base_widgets/base_state_widgets.dart';
+import 'package:portfolio_app/features/pokedex/domain/pokemon_details/pokemon_species.dart';
+import 'package:portfolio_app/features/pokedex/ui/pokemon_detail/pokemon_detail_screen_view_model.dart';
+import 'package:portfolio_app/features/pokedex/ui/pokemon_detail/widgets/pokemon_species_details/pokemon_species_detail_widget.dart';
 import 'package:flutter/material.dart';
 
 class PokemonSpeciesDetailsWidget extends BaseConsumerStatefulWidget {

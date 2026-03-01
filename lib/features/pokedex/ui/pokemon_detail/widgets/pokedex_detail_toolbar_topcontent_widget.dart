@@ -1,9 +1,9 @@
 import 'dart:io';
 
-import 'package:caremixer_test/base_widgets/base_state_widgets.dart';
-import 'package:caremixer_test/base_widgets/fade_in.dart';
-import 'package:caremixer_test/extensions.dart';
-import 'package:caremixer_test/features/pokedex/domain/pokemon_detail.dart';
+import 'package:portfolio_app/base_widgets/base_state_widgets.dart';
+import 'package:portfolio_app/base_widgets/fade_in.dart';
+import 'package:portfolio_app/extensions.dart';
+import 'package:portfolio_app/features/pokedex/domain/pokemon_detail.dart';
 import 'package:flutter/material.dart';
 
 class PokedexDetailToolbarTopContentWidget extends BaseConsumerStatefulWidget {

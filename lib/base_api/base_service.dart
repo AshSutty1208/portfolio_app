@@ -1,4 +1,4 @@
-import 'package:caremixer_test/logger.dart';
+import 'package:portfolio_app/logger.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
 

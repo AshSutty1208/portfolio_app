@@ -1,4 +1,4 @@
-package com.example.caremixer_test
+package com.example.portfolio_app
 
 import io.flutter.embedding.android.FlutterActivity
 

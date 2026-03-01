@@ -1,7 +1,7 @@
-import 'package:caremixer_test/base_api/api_status_enum.dart';
-import 'package:caremixer_test/features/pokedex/domain/pokemon_details/pokemon_ability_detail.dart';
-import 'package:caremixer_test/features/pokedex/domain/pokemon_details/pokemon_characteristic_detail.dart';
-import 'package:caremixer_test/features/pokedex/domain/pokemon_details/pokemon_species_detail.dart';
+import 'package:portfolio_app/base_api/api_status_enum.dart';
+import 'package:portfolio_app/features/pokedex/domain/pokemon_details/pokemon_ability_detail.dart';
+import 'package:portfolio_app/features/pokedex/domain/pokemon_details/pokemon_characteristic_detail.dart';
+import 'package:portfolio_app/features/pokedex/domain/pokemon_details/pokemon_species_detail.dart';
 import 'package:dart_mappable/dart_mappable.dart';
 
 part 'pokemon_detail_screen_state.mapper.dart';

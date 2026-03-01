@@ -1,4 +1,4 @@
-import 'package:caremixer_test/app_theme/app_theme.dart';
+import 'package:portfolio_app/app_theme/app_theme.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
 part 'app_theme_state.g.dart';

@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'dart:math';
 
-import 'package:caremixer_test/features/chat/domain/chat_message.dart';
-import 'package:caremixer_test/logger.dart';
+import 'package:portfolio_app/features/chat/domain/chat_message.dart';
+import 'package:portfolio_app/logger.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
 part 'chat_repository.g.dart';

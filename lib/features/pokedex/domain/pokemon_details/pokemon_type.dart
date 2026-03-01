@@ -1,5 +1,5 @@
-import 'package:caremixer_test/app_theme/app_theme.dart';
-import 'package:caremixer_test/main.dart';
+import 'package:portfolio_app/app_theme/app_theme.dart';
+import 'package:portfolio_app/main.dart';
 import 'package:dart_mappable/dart_mappable.dart';
 import 'package:flutter/material.dart';
 

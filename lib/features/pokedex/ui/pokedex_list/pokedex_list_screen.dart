@@ -1,12 +1,12 @@
-import 'package:caremixer_test/base_api/api_status_enum.dart';
-import 'package:caremixer_test/base_widgets/base_state_widgets.dart';
-import 'package:caremixer_test/base_widgets/loaders/no_data_loader.dart';
-import 'package:caremixer_test/base_widgets/loaders/pokeball_loading_spinner.dart';
-import 'package:caremixer_test/base_widgets/navigation/app_bar.dart';
-import 'package:caremixer_test/features/pokedex/domain/pokemon_detail.dart';
-import 'package:caremixer_test/features/pokedex/ui/pokedex_list/pokedex_list_screen_view_model.dart';
-import 'package:caremixer_test/features/pokedex/ui/pokedex_list/widgets/pokedex_list_item.dart';
-import 'package:caremixer_test/routes/base_router.dart';
+import 'package:portfolio_app/base_api/api_status_enum.dart';
+import 'package:portfolio_app/base_widgets/base_state_widgets.dart';
+import 'package:portfolio_app/base_widgets/loaders/no_data_loader.dart';
+import 'package:portfolio_app/base_widgets/loaders/pokeball_loading_spinner.dart';
+import 'package:portfolio_app/base_widgets/navigation/app_bar.dart';
+import 'package:portfolio_app/features/pokedex/domain/pokemon_detail.dart';
+import 'package:portfolio_app/features/pokedex/ui/pokedex_list/pokedex_list_screen_view_model.dart';
+import 'package:portfolio_app/features/pokedex/ui/pokedex_list/widgets/pokedex_list_item.dart';
+import 'package:portfolio_app/routes/base_router.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 

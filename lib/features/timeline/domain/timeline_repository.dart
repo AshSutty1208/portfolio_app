@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:caremixer_test/features/timeline/domain/timeline_item.dart';
-import 'package:caremixer_test/logger.dart';
+import 'package:portfolio_app/features/timeline/domain/timeline_item.dart';
+import 'package:portfolio_app/logger.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
 part 'timeline_repository.g.dart';

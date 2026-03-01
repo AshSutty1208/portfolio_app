@@ -1,9 +1,9 @@
 // ignore_for_file: unused_import
 
-import 'package:caremixer_test/base_api/base_service.dart';
-import 'package:caremixer_test/features/timeline/domain/timeline_repository.dart';
-import 'package:caremixer_test/features/timeline/ui/timeline_list/state/timeline_screen_state.dart';
-import 'package:caremixer_test/logger.dart';
+import 'package:portfolio_app/base_api/base_service.dart';
+import 'package:portfolio_app/features/timeline/domain/timeline_repository.dart';
+import 'package:portfolio_app/features/timeline/ui/timeline_list/state/timeline_screen_state.dart';
+import 'package:portfolio_app/logger.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
 part 'timeline_view_model.g.dart';

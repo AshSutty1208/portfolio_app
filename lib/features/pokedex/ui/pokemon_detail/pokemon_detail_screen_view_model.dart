@@ -1,16 +1,16 @@
 // ignore_for_file: unused_import
 
-import 'package:caremixer_test/base_api/api_status_enum.dart';
-import 'package:caremixer_test/base_api/base_service.dart';
-import 'package:caremixer_test/features/pokedex/domain/pokedex_repository.dart';
-import 'package:caremixer_test/features/pokedex/domain/pokemon_detail.dart';
-import 'package:caremixer_test/features/pokedex/domain/pokemon_details/pokemon_abilities.dart';
-import 'package:caremixer_test/features/pokedex/domain/pokemon_details/pokemon_ability_detail.dart';
-import 'package:caremixer_test/features/pokedex/domain/pokemon_details/pokemon_characteristic_detail.dart';
-import 'package:caremixer_test/features/pokedex/domain/pokemon_details/pokemon_species_detail.dart';
-import 'package:caremixer_test/features/pokedex/ui/pokedex_list/state/pokedex_list_screen_state.dart';
-import 'package:caremixer_test/features/pokedex/ui/pokemon_detail/state/pokemon_detail_screen_state.dart';
-import 'package:caremixer_test/logger.dart';
+import 'package:portfolio_app/base_api/api_status_enum.dart';
+import 'package:portfolio_app/base_api/base_service.dart';
+import 'package:portfolio_app/features/pokedex/domain/pokedex_repository.dart';
+import 'package:portfolio_app/features/pokedex/domain/pokemon_detail.dart';
+import 'package:portfolio_app/features/pokedex/domain/pokemon_details/pokemon_abilities.dart';
+import 'package:portfolio_app/features/pokedex/domain/pokemon_details/pokemon_ability_detail.dart';
+import 'package:portfolio_app/features/pokedex/domain/pokemon_details/pokemon_characteristic_detail.dart';
+import 'package:portfolio_app/features/pokedex/domain/pokemon_details/pokemon_species_detail.dart';
+import 'package:portfolio_app/features/pokedex/ui/pokedex_list/state/pokedex_list_screen_state.dart';
+import 'package:portfolio_app/features/pokedex/ui/pokemon_detail/state/pokemon_detail_screen_state.dart';
+import 'package:portfolio_app/logger.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
 part 'pokemon_detail_screen_view_model.g.dart';

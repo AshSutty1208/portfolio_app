@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:caremixer_test/base_widgets/base_state_widgets.dart';
+import 'package:portfolio_app/base_widgets/base_state_widgets.dart';
 import 'package:flutter/material.dart';
 
 class PokemonCharacteristicStatBar extends BaseConsumerStatefulWidget {

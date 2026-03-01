@@ -1,5 +1,5 @@
-import 'package:caremixer_test/app_theme/app_theme_colours.dart';
-import 'package:caremixer_test/app_theme/app_theme_text_styles.dart';
+import 'package:portfolio_app/app_theme/app_theme_colours.dart';
+import 'package:portfolio_app/app_theme/app_theme_text_styles.dart';
 import 'package:flutter/material.dart';
 
 export 'app_theme_colours.dart';

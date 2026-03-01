@@ -1,8 +1,8 @@
-import 'package:caremixer_test/base_widgets/base_state_widgets.dart';
-import 'package:caremixer_test/base_widgets/navigation/app_bar.dart';
-import 'package:caremixer_test/features/chat/ui/chat_list_view_model.dart';
-import 'package:caremixer_test/features/chat/ui/widgets/message_item.dart';
-import 'package:caremixer_test/features/chat/ui/widgets/recieving_message.dart';
+import 'package:portfolio_app/base_widgets/base_state_widgets.dart';
+import 'package:portfolio_app/base_widgets/navigation/app_bar.dart';
+import 'package:portfolio_app/features/chat/ui/chat_list_view_model.dart';
+import 'package:portfolio_app/features/chat/ui/widgets/message_item.dart';
+import 'package:portfolio_app/features/chat/ui/widgets/recieving_message.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

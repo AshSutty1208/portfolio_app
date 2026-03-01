@@ -1,13 +1,13 @@
-import 'package:caremixer_test/base_widgets/base_state_widgets.dart';
-import 'package:caremixer_test/base_widgets/fade_in.dart';
-import 'package:caremixer_test/extensions.dart';
-import 'package:caremixer_test/features/pokedex/domain/pokemon_detail.dart';
-import 'package:caremixer_test/features/pokedex/domain/pokemon_details/pokemon_type.dart';
-import 'package:caremixer_test/features/pokedex/ui/pokemon_detail/pokemon_detail_screen_view_model.dart';
-import 'package:caremixer_test/features/pokedex/ui/pokemon_detail/widgets/pokedex_detail_toolbar_topcontent_widget.dart';
-import 'package:caremixer_test/features/pokedex/ui/pokemon_detail/widgets/pokemon_abilities/pokemon_abilities_widget.dart';
-import 'package:caremixer_test/features/pokedex/ui/pokemon_detail/widgets/pokemon_characteristics%20/pokemon_characteristic_widget.dart';
-import 'package:caremixer_test/features/pokedex/ui/pokemon_detail/widgets/pokemon_species_details/pokemon_species_widget.dart';
+import 'package:portfolio_app/base_widgets/base_state_widgets.dart';
+import 'package:portfolio_app/base_widgets/fade_in.dart';
+import 'package:portfolio_app/extensions.dart';
+import 'package:portfolio_app/features/pokedex/domain/pokemon_detail.dart';
+import 'package:portfolio_app/features/pokedex/domain/pokemon_details/pokemon_type.dart';
+import 'package:portfolio_app/features/pokedex/ui/pokemon_detail/pokemon_detail_screen_view_model.dart';
+import 'package:portfolio_app/features/pokedex/ui/pokemon_detail/widgets/pokedex_detail_toolbar_topcontent_widget.dart';
+import 'package:portfolio_app/features/pokedex/ui/pokemon_detail/widgets/pokemon_abilities/pokemon_abilities_widget.dart';
+import 'package:portfolio_app/features/pokedex/ui/pokemon_detail/widgets/pokemon_characteristics%20/pokemon_characteristic_widget.dart';
+import 'package:portfolio_app/features/pokedex/ui/pokemon_detail/widgets/pokemon_species_details/pokemon_species_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

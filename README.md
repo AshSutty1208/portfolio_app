@@ -1,4 +1,4 @@
-# Pokedex test app
+# Portfolio App
 
 Welcome to my app!
 

@@ -1,7 +1,7 @@
-import 'package:caremixer_test/base_widgets/base_state_widgets.dart';
-import 'package:caremixer_test/base_widgets/navigation/app_bar.dart';
-import 'package:caremixer_test/features/timeline/ui/timeline_list/timeline_view_model.dart';
-import 'package:caremixer_test/features/timeline/ui/timeline_list/widgets/timeline_list_item.dart';
+import 'package:portfolio_app/base_widgets/base_state_widgets.dart';
+import 'package:portfolio_app/base_widgets/navigation/app_bar.dart';
+import 'package:portfolio_app/features/timeline/ui/timeline_list/timeline_view_model.dart';
+import 'package:portfolio_app/features/timeline/ui/timeline_list/widgets/timeline_list_item.dart';
 import 'package:flutter/material.dart';
 
 class TimelineScreen extends BaseConsumerStatefulWidget {

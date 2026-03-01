@@ -1,4 +1,4 @@
-import 'package:caremixer_test/features/pokedex/domain/pokemon_details/pokemon_abilities.dart';
+import 'package:portfolio_app/features/pokedex/domain/pokemon_details/pokemon_abilities.dart';
 import 'package:dart_mappable/dart_mappable.dart';
 import 'pokemon_details/pokemon_species.dart';
 import 'pokemon_details/pokemon_type.dart';

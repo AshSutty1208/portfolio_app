@@ -1,8 +1,8 @@
-import 'package:caremixer_test/app_theme/app_theme.dart';
-import 'package:caremixer_test/base_widgets/base_state_widgets.dart';
-import 'package:caremixer_test/extensions.dart';
-import 'package:caremixer_test/features/chat/domain/chat_message.dart';
-import 'package:caremixer_test/features/chat/ui/widgets/message_item.dart';
+import 'package:portfolio_app/app_theme/app_theme.dart';
+import 'package:portfolio_app/base_widgets/base_state_widgets.dart';
+import 'package:portfolio_app/extensions.dart';
+import 'package:portfolio_app/features/chat/domain/chat_message.dart';
+import 'package:portfolio_app/features/chat/ui/widgets/message_item.dart';
 import 'package:flutter/material.dart';
 
 class AnimatedMessageCard extends BaseConsumerStatefulWidget {

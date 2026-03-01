@@ -1,5 +1,5 @@
-import 'package:caremixer_test/app_theme/app_theme.dart';
-import 'package:caremixer_test/base_widgets/base_state_widgets.dart';
+import 'package:portfolio_app/app_theme/app_theme.dart';
+import 'package:portfolio_app/base_widgets/base_state_widgets.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

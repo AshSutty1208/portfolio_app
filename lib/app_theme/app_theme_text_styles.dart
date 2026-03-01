@@ -1,4 +1,4 @@
-import 'package:caremixer_test/app_theme/app_theme_colours.dart';
+import 'package:portfolio_app/app_theme/app_theme_colours.dart';
 import 'package:flutter/material.dart';
 
 /// Text styles used in the navigation bar
