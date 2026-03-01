@@ -1,4 +1,4 @@
-# caremixer_test
+# Pokedex test app
 
 Welcome to my app!
 
