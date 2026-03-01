@@ -8,7 +8,7 @@ Lets go through how we install this thing
 
 ### Android
 
-Android is pretty simple, there is an APK in the drive link here: https://drive.google.com/file/d/1m3ta07-kOZx9LbusFnYJsQ-LM0PAkRZw/view?usp=drive_link
+Android is pretty simple, there is an APK in the drive link here: [https://drive.google.com/file/d/1m3ta07-kOZx9LbusFnYJsQ-LM0PAkRZw/view?usp=drive_link](https://drive.google.com/file/d/1oojbKrRTKKNhLID3GYxoVMQVk1jN2ark/view?usp=sharing)
 
 - Download it on your Android device and install
 
